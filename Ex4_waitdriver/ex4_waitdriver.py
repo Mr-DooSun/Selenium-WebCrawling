@@ -4,8 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-from time import sleep
-
 # chrome driver를 자동으로 설치함
 chromedriver_autoinstaller.install() 
 
